@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/pkb9239.github.io/ReactJs-movie/static/js/main.94cc0d0b.js",
+    "main.css": "/pkb9239.github.io/ReactJs-movie/static/css/main.7528f5c3.css",
+    "main.js": "/pkb9239.github.io/ReactJs-movie/static/js/main.f66c42c7.js",
     "index.html": "/pkb9239.github.io/ReactJs-movie/index.html",
-    "main.94cc0d0b.js.map": "/pkb9239.github.io/ReactJs-movie/static/js/main.94cc0d0b.js.map"
+    "main.7528f5c3.css.map": "/pkb9239.github.io/ReactJs-movie/static/css/main.7528f5c3.css.map",
+    "main.f66c42c7.js.map": "/pkb9239.github.io/ReactJs-movie/static/js/main.f66c42c7.js.map"
   },
   "entrypoints": [
-    "static/js/main.94cc0d0b.js"
+    "static/css/main.7528f5c3.css",
+    "static/js/main.f66c42c7.js"
   ]
 }
